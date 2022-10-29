@@ -83,3 +83,5 @@ git reset HEAD somefile.js
 ```
 git reset HEAD
 ```
+
+## 11. Перемещение между коммитами.
