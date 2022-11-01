@@ -177,3 +177,4 @@ git merge --abort
 какой новый текст
 текст
 текст
+njndfanfjanfjenfjkenkjenr
